@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add New Source</title>
+</head>
+<body>
+    <h1>Add New Web Source</h1>
+    <form method="POST" action="/add_source">
+        <label for="source_id">Source ID:</label><br>
+        <input type="text" id="source_id" name="source_id" required><br>
+
+        <label for="source_name">Source Name:</label><br>
+        <input type="text" id="source_name" name="source_name" required><br>
+
+        <label for="source_details">Source Details:</label><br>
+        <input type="text" id="source_details" name="source_details" required><br>
+
+        <label for="source_url">Source URL:</label><br>
+        <input type="url" id="source_url" name="source_url" required><br><br>
+
+        <button type="submit">Add Source</button>
+    </form>
+</body>
+</html>
+

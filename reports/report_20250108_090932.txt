@@ -1,0 +1,3 @@
+ID: youtube, Name: ders çalışma videosu, URL: https://www.youtube.com/watch?v=59VYbQkP3Y8, Status: kaynak erişilebilir durumda
+ID: youtube, Name: ders çalışma videosu, URL: ttps://www.youtube.com/watch?v=59VYbQkP3Y8, Status: Aradığınız kaynak erişilemez
+ID: youtube, Name: ders çalışma videosu, URL: https://www.youtube.com/watch?v=59VYbQkP3Y8, Status: kaynak erişilebilir durumda
